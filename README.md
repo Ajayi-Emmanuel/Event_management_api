@@ -9,17 +9,6 @@ This is a Django-based API for managing users and events. It includes features f
 - **Duplicate Prevention**: Events with the same title and date cannot be created.
 - **Filter Events**: Users can filter upcoming events based on event details.
 
-## Table of Contents
-
-- [Getting Started](#getting-started)
-- [User App](#user-app)
-- [Event App](#event-app)
-- [API Endpoints](#api-endpoints)
-- [Filtering Events](#filtering-events)
-- [Running Tests](#running-tests)
-- [Contributing](#contributing)
-
-## Getting Started
 
 ### Prerequisites
 
